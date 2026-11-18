@@ -9,4 +9,12 @@ El juego se muestra con movimiento, enemigos y también parap oder hacer disparo
   - Existe colisión pero noafecta al personaje y los enemigos se destruyen a él mismo
 - No se presencia sonido de colisión entre nave enemiga y el jugador.
 
+#### Commit 1
 + Se agrega este log y música de ambiente al juego
+
+#### Commit 2
++ Se arregla para que la colisión sea sólo con las balas (no con el jugador)
++ Se agrega daño al jugador por enemigo y ammo
++ Se agrega tiempo de invulnerabilidad al jugador después de recibir daño
++ Se arregla para que las balas se destruyan en colisión
++ Las balas del player ya evita una segunda colisión luego de golpear un enemigo
