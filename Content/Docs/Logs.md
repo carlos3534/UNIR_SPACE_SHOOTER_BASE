@@ -18,3 +18,8 @@ El juego se muestra con movimiento, enemigos y también parap oder hacer disparo
 + Se agrega tiempo de invulnerabilidad al jugador después de recibir daño
 + Se arregla para que las balas se destruyan en colisión
 + Las balas del player ya evita una segunda colisión luego de golpear un enemigo
+
+#### Commit 3
++ Delay de disparos corregido, ahora hay un random sin rango (que sería bueno poner) de los disparos
++ Disparos hacen Beep
++ Se agregó un conteo de enemigos eliminados y se muestra en pantalla
