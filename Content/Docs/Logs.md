@@ -42,3 +42,7 @@ Ideas a crear:
 + Se agrega efecto y colisión del paquete de vida
 + Implementado el paquete de vida, al recogerlo se suma vida al jugador
 + Mejorado la iluminación... creo
+
+#### Commit 6
++ Nuevo enemigo agregado, enemigo de tipo Cohete/Kamikaze, aparece y se dirige hacia el jugador, al colisionar con él hace daño y se destruye.
++ Enemigo agregado genera daño, es destruible y se destruye al final también.
