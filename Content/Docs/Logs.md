@@ -23,3 +23,16 @@ El juego se muestra con movimiento, enemigos y también parap oder hacer disparo
 + Delay de disparos corregido, ahora hay un random sin rango (que sería bueno poner) de los disparos
 + Disparos hacen Beep
 + Se agregó un conteo de enemigos eliminados y se muestra en pantalla
+
+#### Commit 4
+Se verifica que no hay feedback al recibir un golpe, la vida baja pero no hay feeling al respecto.
+Ideas a crear:
+- Efecto de parpadeo al recibir daño
+- Es necesario crear lógica de crear un item cuando el enemigo se destruya, esta lógica debe considerar la vida del jugador.
+- Barrera o látigo que permita al jugador destruir balas en un radio, de forma que pueda moverse de algún punto a otro.
+  - Esta barrera podría recargarse con alguna barra de energía que se vaya llenando con el tiempo o con enemigos eliminados.
+  - Se podría tener cooldown de al menos dos habilidades
+    - Estas habiliades serían un uso? o se reemplazaría si se encuentra alguna otra barrera?
+    - En este sentido, si se coge el mismo subiría de nivel la habilidad?
+
++ Creado el Pack de vida para curarse
