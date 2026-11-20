@@ -36,3 +36,9 @@ Ideas a crear:
     - En este sentido, si se coge el mismo subiría de nivel la habilidad?
 
 + Creado el Pack de vida para curarse
+
+#### Commit 5
++ Se agrega lógica de que aparezca el health item
++ Se agrega efecto y colisión del paquete de vida
++ Implementado el paquete de vida, al recogerlo se suma vida al jugador
++ Mejorado la iluminación... creo
