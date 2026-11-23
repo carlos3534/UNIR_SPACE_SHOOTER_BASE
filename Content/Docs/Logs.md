@@ -50,3 +50,9 @@ Ideas a crear:
 #### Commit 7
 + Se trabaja con lógica del nivel, las naves rojas son más rápidas a medida que sube el nivel
 + El Cohete sube de nivel a ser nivel 3, llega más rápido
+
+#### Commit 8
+Se ve que el juego puede volverse interesante sin embargo hace falta alguna estructura que haga que el jugador sea obligado a moverse, se piensa en 2 tipos de estructuras, una que no puedes romper para nada y otras que sean 2 meteoritos que estén unidos por un rayo láser el cual para poder pasar por ahí puedes esquivar o destruir 1 de los meteoritos. Se implementará sistema de vida para cada enemigo.
++ Se agrega sistema de vida para los enemigos, a partir de siguiente nivel se volver'an m'as resistentes
+- Falta mejorar el spawn por nivel
+- Se puede agregar a los enemigos en grupos
