@@ -46,3 +46,7 @@ Ideas a crear:
 #### Commit 6
 + Nuevo enemigo agregado, enemigo de tipo Cohete/Kamikaze, aparece y se dirige hacia el jugador, al colisionar con él hace daño y se destruye.
 + Enemigo agregado genera daño, es destruible y se destruye al final también.
+
+#### Commit 7
++ Se trabaja con lógica del nivel, las naves rojas son más rápidas a medida que sube el nivel
++ El Cohete sube de nivel a ser nivel 3, llega más rápido
