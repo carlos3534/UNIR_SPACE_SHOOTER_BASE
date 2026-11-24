@@ -56,3 +56,9 @@ Se ve que el juego puede volverse interesante sin embargo hace falta alguna estr
 + Se agrega sistema de vida para los enemigos, a partir de siguiente nivel se volver'an m'as resistentes
 - Falta mejorar el spawn por nivel
 - Se puede agregar a los enemigos en grupos
+
+#### Commit 9
++ Se agrega spawn de enemigos por nivel, a medida que sube el nivel aparecen más enemigos y más rápido
+
+#### Commit 10
++ Se agrega sistema de Dash con Cooldown del jugado, paa el movimiento hacia la izquieda y derecha
